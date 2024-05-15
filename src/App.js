@@ -10,7 +10,7 @@ function App() {
   return (
     <Router>
       <div>
-      <img src={logo} className="App-logo" alt="logo" />
+      // remove image <img src={logo} className="App-logo" alt="logo" />
         <nav>
           <ul>
             <li>
